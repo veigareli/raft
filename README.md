@@ -1,1 +1,2 @@
-# raft
+I use emojis in the output to improve readability and make debugging more intuitive. It helps us quickly identify the context and type of events during execution.
+If we should remove the log.Print statements please let use know :)
